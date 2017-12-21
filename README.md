@@ -4,7 +4,7 @@ True strongly type Net core configuration access. This simple library, provides 
 
 **Note** this project doesn't actually add anything that wasn't already there in the F# + netcore ecosystem. It just ties together a few concepts. 
 
-Currently, no NuGet pacakage is available, but the actual extension is only a single file which can be referenced using paket, 
+Currently, no NuGet pacakage is available, but the actual extension is only a single file which can be referenced using [Paket](https://github.com/fsprojects/Paket), 
 
     github colinbull/StrongNetCoreConfig src/StrongConfigurationExtensions.fs
 
