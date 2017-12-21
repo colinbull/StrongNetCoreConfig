@@ -1,6 +1,8 @@
 # Strongly type access for .NET Core for F#
 
-True strongly type Net core configuration access. This simple library, provides a hook to use F# Type provides with .net core configuration system. 
+True strongly type Net core configuration access. This simple library, provides a hook to use F# Type provides with .net core configuration system.
+
+**Note** this project doesn't actually add anything that wasn't already there in the F# + netcore ecosystem. It just ties together a few concepts. 
 
 Currently, no NuGet pacakage is available, but the actual extension is only a single file which can be referenced using paket, 
 
