@@ -2,6 +2,10 @@
 
 True strongly type Net core configuration access. This simple library, provides a hook to use F# Type provides with .net core configuration system. 
 
+Currently, no NuGet pacakage is available, but the actual extension is only a single file which can be referenced using paket, 
+
+    github colinbull/StrongNetCoreConfig src/StrongConfigurationExtensions.fs
+
 Firstly, create the type providers based on configuration samples, 
 
     type CommonConfiguration = JsonProvider<"appsettings.json">
