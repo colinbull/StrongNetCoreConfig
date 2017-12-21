@@ -1,0 +1,16 @@
+Microsoft.AspNetCore
+Microsoft.AspNetCore.Cors
+Microsoft.AspNetCore.Hosting
+Microsoft.AspNetCore.Diagnostics
+Microsoft.AspNetCore.Server.Kestrel
+Microsoft.AspNetCore.Server.IISIntegration
+Microsoft.AspNetCore.StaticFiles
+Microsoft.Extensions.Logging.Console
+Microsoft.Extensions.Logging.Debug
+Microsoft.Extensions.DependencyInjection
+Microsoft.Extensions.Configuration.Json
+Microsoft.Extensions.Configuration.Binder
+Giraffe
+Giraffe.Razor
+FSharp.Data
+FSharp.Core

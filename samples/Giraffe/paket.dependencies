@@ -1,0 +1,20 @@
+source https://api.nuget.org/v3/index.json
+storage: none
+
+nuget FSharp.Core
+nuget FSharp.Data
+nuget Giraffe
+nuget Giraffe.Razor
+nuget Microsoft.AspNetCore
+nuget Microsoft.AspNetCore.Authentication.Cookies
+nuget Microsoft.AspNetCore.Cors
+nuget Microsoft.AspNetCore.Diagnostics
+nuget Microsoft.AspNetCore.Hosting
+nuget Microsoft.AspNetCore.Server.IISIntegration
+nuget Microsoft.AspNetCore.Server.Kestrel
+nuget Microsoft.AspNetCore.StaticFiles
+nuget Microsoft.Extensions.Configuration.Binder
+nuget Microsoft.Extensions.Configuration.Json
+nuget Microsoft.Extensions.DependencyInjection
+nuget Microsoft.Extensions.Logging.Console
+nuget Microsoft.Extensions.Logging.Debug
